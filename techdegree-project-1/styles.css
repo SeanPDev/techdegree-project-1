@@ -203,9 +203,10 @@ a.social:hover {
     margin: 40px auto;
   }
 
-  .exp {
-    padding: 1px 1px 1px 100px;
-  }
-
+ .myexp {
+   list-style: none;
+   margin: 40px auto;
+   font-size: 2em;
+ }
 }
 
